@@ -1,5 +1,3 @@
-# John Carlo Lorieta
-
 **IT Student | Backend & AI-Focused Developer**
 
 I build backend applications and experiment with AI systems. I enjoy turning ideas into working software and learning how intelligent systems behave in real-world use.
